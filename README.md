@@ -1,1 +1,2 @@
-# Smart-Street-Light-Automation
+An Arduino Project for Smart Street Lighting
+
